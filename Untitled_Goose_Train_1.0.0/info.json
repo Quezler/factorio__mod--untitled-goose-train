@@ -1,0 +1,9 @@
+{
+  "name": "Untitled_Goose_Train",
+  "version": "1.0.0",
+  "factorio_version": "0.18",
+  "title": "Untitled Goose Train",
+  "author": "Quezler",
+  "dependencies": ["base", "Honk"],
+  "description": "For when one double honk isn't enough."
+}
